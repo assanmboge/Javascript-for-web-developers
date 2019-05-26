@@ -1,0 +1,21 @@
+.empty {
+  visibility: hidden;
+}
+
+
+div {
+  margin: 500px auto;
+  border: 1px solid black;
+  width: 200px;
+  height: 100px;
+
+}
+
+/*
+#popUp {
+  position: fixed;
+  top:50vh;
+  left: 50vw;
+  display: block;
+
+}*/
